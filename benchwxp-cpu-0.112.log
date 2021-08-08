@@ -1,0 +1,1566 @@
+nohup: ignoring input
+2021-08-08T14:38:48.438Z	[34mINFO[0m	lotus-bench	lotus-bench/main.go:101	Starting lotus-bench
+2021-08-08T14:38:48.672Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.vk is ok
+2021-08-08T14:38:48.672Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-6babf46ce344ae495d558e7770a585b2382d54f225af8ed0397b8be7c3fcd472.vk is ok
+2021-08-08T14:38:48.672Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-ecd683648512ab1765faa2a5f14bab48f676e633467f0aa8aad4b55dcb0652bb.vk is ok
+2021-08-08T14:38:48.672Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.vk is ok
+2021-08-08T14:38:48.672Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-50c7368dea9593ed0989e70974d28024efa9d156d585b7eea1be22b2e753f331.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0cfb4f178bbb71cf2ecfcd42accce558b27199ab4fb59cb78f2483fe21ef36d9.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-7d739b8cf60f1b0709eeebee7730e297683552e4b69cab6984ec0285663c5781.vk is ok
+2021-08-08T14:38:48.673Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-5294475db5237a2e83c3e52fd6c2b03859a1831d45ed08c4f35dbf9a803165a9.vk is ok
+2021-08-08T14:38:48.680Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.vk is ok
+2021-08-08T14:38:48.680Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.vk is ok
+2021-08-08T14:38:48.957Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.params is ok
+2021-08-08T14:38:49.102Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-fil-inner-product-v1.srs is ok
+2021-08-08T14:39:56.401Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.params is ok
+2021-08-08T14:40:16.880Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.params is ok
+2021-08-08T14:40:16.880Z	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:207	parameter and key-fetching complete
+----
+start proof computation
+C2 — prover_id -- sector_id ...
+C2 — prover_id: [232, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+C2 — sector_id:: SectorId(0)
+[DEBUG] C2-1 SealCommitPhase1Output,comm_d,comm_r,comm_r_safe,comm_d_safe,public_inputs,groth_params  
+ start :: 1628433616,
+ end :1628433619,
+ duration:3
+
+[DEBUG] C2-2 compound_setup_params,vanilla_params,partitions,priority  
+ start :: 1628433619,
+ end :1628433619,
+ duration:0
+
+total memery = 2052 GiB, proof lock max num: 8
+prover.create_proof_batch_priority: create provers start...
+prover.create_proof_batch_priority: create provers time: 105.007444865s
+prover.create_proof_batch_priority: get params start
+prover.create_proof_batch_priority: waiting params...
+prover.create_proof_batch_priority: get params end: 45.505402266s
+prover.create_proof_batch_priority: a_s start...
+prover.create_proof_batch_priority: a_s time: 243.202931426s
+prover.create_proof_batch_priority: h_s start...
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.066782288s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:7.578584307s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.300236285s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:17.930668711s ================================ 
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.97876456s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.924652382s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.22304911s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.196692143s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.347236467s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:3.870186447s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:16.63744433s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:16.860147448s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.168752791s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.192435307s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.180301171s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.660767996s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:15.202478566s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:17.551745922s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.113601015s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.221110036s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.183078239s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.791239398s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:15.309284181s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:16.811916059s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:3.744645348s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.010186782s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.182329612s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.601157147s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:14.538675882s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:15.729935428s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.194913771s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:3.990782877s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.120983014s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:3.305581372s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:16.612463396s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:17.474085598s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.192999042s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.287523141s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.869645588s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:16.618412217s ================================ 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:3.871240397s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:18.221602888s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.1714912s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.298617155s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.494965008s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.356116679s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:15.321449453s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:17.096193825s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.198248149s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.504072853s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.554047357s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.676483123s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:15.933076912s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:16.96969942s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=15032385
+main MultiexpKernel.multiexp: exp_num:119185342 , num_devices:1 , chunk_size:119185342
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():119185342 , exps.len():119185342 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.209600768s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.218690625s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.529451187s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1926282176 ,mem2:592702208 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 7298Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:17.296051807s ================================ 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:4.343597412s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:17.301718205s end ================================
+prover.create_proof_batch_priority: h_s time: 175.908807711s
+prover.create_proof_batch_priority: l_s start...
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.875008365s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.942641079s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.409847636s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.87039583s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.617288058s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.305654275s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.386606327s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.395227491s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.05433466s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.333280775s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.374484736s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.489801251s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.368566966s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.381883688s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.896150836s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.320771067s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.375790336s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.447202288s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.372456536s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.381474303s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.83123672s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.316512212s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.374079971s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.444727253s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.371483773s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.38130937s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.026711141s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.320015434s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.37952238s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.452578891s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:3.013648949s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.88895235s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.230409951s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.847088437s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.621274307s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.371171216s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.371628703s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.382246097s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.947336337s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.32023028s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.374709084s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.449054835s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.401559424s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.405661721s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.984243816s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.360392816s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.40740457s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.575277673s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.373371291s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.38445052s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.946124818s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.320686882s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.376749929s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.455496114s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14680584
+main MultiexpKernel.multiexp: exp_num:116396059 , num_devices:1 , chunk_size:116396059
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116396059 , exps.len():116396059 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.396117759s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.380998678s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.031633072s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.317989757s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1636196744 ,mem2:503445152 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6936Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.381973943s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.477340688s end ================================
+prover.create_proof_batch_priority: l_s time: 88.472470306s
+prover.create_proof_batch_priority: input start...
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.749348ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:295.828727ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:295.902788ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.651704083s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.703430652s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.959399799s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.607651017s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.465330302s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:9.428300218s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:9.596859ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:70.084572ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:70.135292ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:2.001619782s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.322325858s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.322428659s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:24.505153ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:56.27118ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:56.335691ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.899547368s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:6.523760274s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:6.523842714s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:12.132635ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:154.760689ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:154.86569ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.170365641s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.470538928s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.925157174s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.615575734s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.464129868s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.720779773s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.047572ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:70.738132ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:70.792632ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.966205051s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.314305678s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.31443782s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:8.967704ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:36.204896ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:36.260436ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.950355294s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:6.491936256s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:6.492016468s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.027722ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:148.475972ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:148.561693ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.488668603s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.43498616s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.767588167s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.122428021s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.270896587s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.317128813s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:8.832662ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:70.380323ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:70.431124ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.827161212s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:1.827231072s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.881403367s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:18.974528ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:37.870744ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:37.997457ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.597470351s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:5.597705164s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.744568657s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.848201ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:150.727563ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:150.814153ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.136837176s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.525243985s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.906658125s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.607959495s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.462675528s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.732856594s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.77258ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:66.87547ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:66.93619ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.938206996s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.282643481s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.282713312s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:10.006665ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:34.518522ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:34.570102ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.856923145s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:6.478557985s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:6.478708116s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:11.209828ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:153.418578ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:153.47448ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.581515934s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.435749117s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.133674426s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.122349666s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.259830831s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.39966431s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:9.206566ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:71.3403ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:71.470021ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.83339304s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.841432104s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:1.841500235s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:22.712179ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:43.463447ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:43.627999ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.600394987s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:5.60058235s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.739517872s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:12.425931ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:150.494505ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:150.574327ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.036911543s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.208172279s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.10689357s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.602744348s ================================ 
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.263020551s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:7.615213185s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:11.943036ms ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:65.472091ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:65.529612ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.822606969s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:1.8226589s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.877468539s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:12.877226ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:33.09648ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:33.14662ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.591132317s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:5.591322039s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.698238721s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:11.654374ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:148.444401ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:148.496621ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.6386413s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.716082494s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.002404071s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.625204285s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.477835104s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:9.457941676s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:8.679692ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:71.202245ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:71.286375ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.955385619s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.287793666s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.287864656s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:8.707223ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:35.579808ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:35.641118ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.042416319s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:6.45199073s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:6.452073471s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:11.410351ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:153.357629ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:153.40871ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.029618061s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.203163316s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.114924386s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.722895269s ================================ 
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.328720945s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:7.676601092s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:9.148648ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:70.890095ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:70.949515ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.823854267s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:1.823991698s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.89741904s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:12.759485ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:33.213394ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:33.259255ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.58306719s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:5.583125552s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.763693987s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:11.399342ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:151.745858ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:151.863599ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.665204338s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.702197605s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.975996205s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.635329154s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.466693544s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:9.469598172s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:8.967796ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:65.923934ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:66.045695ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.967411317s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.289796435s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.289858585s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:8.940386ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:34.783732ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:34.877783ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.82351646s ================================ 
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:6.517761865s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:6.517839637s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=36
+main MultiexpKernel.multiexp: exp_num:292 , num_devices:1 , chunk_size:292
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] MultiexpKernel.multiexp:  chunks bases.len():292 , exps.len():292 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30368 ,mem2:9344 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:11.652565ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:149.641423ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:149.760984ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=14631404
+main MultiexpKernel.multiexp: exp_num:116006138 , num_devices:1 , chunk_size:116006138
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():116006138 , exps.len():116006138 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.032162927s <=========== 
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 2] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 2] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 2] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.344622485s <=========== 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 3] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3489664464 ,mem2:1073742912 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 9248Mbyte
+[129 - 3] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.678864459s ================================ 
+[129 - 3] MultiexpKernel.multiexp: ===========> Single multiexp cost:2.307595318s <=========== 
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 4] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:1595644960 ,mem2:490967680 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 6886Mbyte
+[129 - 4] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 4] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.280433121s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:7.965042392s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 4896Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:10.25271ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:71.378906ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:71.444117ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:11,num_windows:24,num_groups:725,bucket_len:2048
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3083351024 ,mem2:948723392 ,mem3:5131468800 ,mem4:2505600 ,GPU mem need: 8741Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:24,num_groups:725,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:1.812720713s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:1.812875594s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.863312086s ================================ 
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=0
+main MultiexpKernel.multiexp: exp_num:1 , num_devices:1 , chunk_size:1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] MultiexpKernel.multiexp:  chunks bases.len():1 , exps.len():1 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 1228Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.360918ms ================================ 
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:25.723786ms <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:25.830337ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.112 , cpu_n=3739337
+main MultiexpKernel.multiexp: exp_num:29647606 , num_devices:1 , chunk_size:29647606
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[129] Multiexp: Device 129: NVIDIA GeForce RTX 3080 core count:8704 (Chunk-size: 568)
+[129] MultiexpKernel.multiexp:  chunks bases.len():29647606 , exps.len():29647606 , chunk_size:33554466
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp start <=========== 
+[129 - 1] SingleMultiexpKernel.multiexp:  exp_bits:256,window_size:8,num_windows:32,num_groups:544,bucket_len:256
+[129 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:5929521200 ,mem2:948723392 ,mem3:1283457024 ,mem4:5013504 ,GPU mem need: 7788Mbyte
+[129 - 1] SingleMultiexpKernel.multiexp: global_work_size:17408,num_windows:32,num_groups:544,LOCAL_WORK_SIZE:256
+[129 - 1] MultiexpKernel.multiexp: ===========> Single multiexp cost:5.600249951s <=========== 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:5.600362751s end ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.646297785s ================================ 
+prover.create_proof_batch_priority: input time: 230.720270776s
+prover.create_proof_batch_priority: prover time: 888.919006191s
+[DEBUG] C2-3 compound_public_params,groth_proofs  
+ start :: 1628433619,
+ end :1628434509,
+ duration:890
+
+[DEBUG] C2-4 write(&mut buf)  
+ start :: 1628434509,
+ end :1628434509,
+ duration:0
+
+[DEBUG] C2-5 verify_seal,out  
+ start :: 1628434509,
+ end :1628434509,
+ duration:0
+
+[DEBUG] C2-X seal_commit_phase2 done! 
+ start :: 1628433616,
+ end :1628434509,
+ duration:893
+
+proof: ab65f760855c8f3e0d0e0b9e1e68535c62d332649afc9d738552b8bfd3e22688b29a25325577b0f25d12d13cb44abd0ab4c6258cce88780f8fe10255300cc6995fc788d79b68ec539f04c7a41b9699639eb719652a7589a14c8ade07a15122ba0430539a686d4b3d2b70283d1fec089bd7ca0767acd5eb5a51c9b5a43a5401778e331ad8428a419896195be368aa631e9204ad4e63bbea1a5c20212c5694d7a2e88de7c095aa52af9afae5f9ba10e72112bd8b8e21bc264518949f46c0f8698290276d7f6ffc41ac227679c41bb46d5ec2b6389bb8cea83f80ae6e408f8e114881f3619622de69d5747260601b9b34c38d13914c6995dc977ed02db0e8c7c88a3ead16646f0832195476b27db2a80b846881d3b19850cd2c60f43ecd3206e9d005ea35deea18e670a3f8e0e507d99d63d16abd8cbcf21250303eed35201961c92bff0143a4fa35a5747d4ef99cbf4b63a4832375de37a4f2f0c0a0ff70148625f19723ee26f235f5185b3959ca628d61bc57bf1810b17ab8fe5a7fdb396e0f4e88106f516858a28e3f039e830369cea37f46cce87c7414dc6f3898ebcc4f05036788b87d7bc2b5f0efa2fd7f6d0613138ccbb87a90f92396b36e9cb50af7b44489cc2436b1c7edfb8091b1ec28f4b5bb13ab7217a925ea2ad23af28d990d85830be5d00cb3adaa4321b4cbaa702336e9cbee526a610eed6b9f4e55670111c356508101333360a7a76ef0917132bde2b7841771d8f59d59a8f47ca525b42f633ae8f115f117d2599a3c7ad1858952a421eeed48bf69da5d7d3b007c83a0bd8a4eaf0b0023ec0500d0b97ebd56518d7b74dc24271ad83219deb4bf6c7c9b46ae848663de1d26675f93c6f3ff2d894d4b99a9042d107396ccdc659b22e611058276ecdbd390a4f1d4961525ef13f7bcc1923863af87b094bcd8595895b2d47ba329066c8e2dd2cebf0596a939f7a0d19df9c6c0d6adf71855d6d973d1f18c54f897dc8bce2e50d4ed55b029f4b8b816885780eb79049ef24401d72dddb6d224f2c9f2d39329088127f6f0a59c94d01b875c4b396f3cc650e2069da30fc7f43bedf4849280ac84f62b712493558acb66f6e01acc4837f9174c77a73a7af9e3f9fd6a24e9099d47941ec8e29fb01a7553467fae7ef61753dfc19c021a71656f8e387afa74829bfd31acc0709a6b3360ef88d6e7d0a2af0ed8128050047bae7edc6f6b119cee95c010da7a81dcd202baabbb344705e22fbb69765149f9e042b40859b8c7f6c0313500447d2adb44fb9b3f883da6135364837a06379ae406e8571d6ca7bb67b2a774e22d12cbc7ef2b4ae27d4c5d1f1f8f52d87dffef499259af87f3c580609a3b42a99037e9367618a3edff65522179101412800651c3671fc3a94203eae9fc0c1b7926b005d3a44f8007bae896582eed4c75281d7a2bf6bb3ffca26624335b99723e817f5b787f55f624b52a62e6da05e11ff1fb37e85679baec1bbd1419e9902cf00e2a7140cc21963af55dee9dfcb53a99ec856bdd04e7a4cbf7920745556066077d446cfdb27a279a43b98a4044c55978411d66080531f88bc8a71ca5715c3f932a4ce28f62fcf3d7a9a7e8264508856eb8438db7f0ea33ff468aade09dafc789bf9226f43c45555f76b9ca66917672c7a277036fc93b4b9144b2f302b0e59419d531a8ad0cf74dfb6000b64953aecac0fc71a2a1bf0cca96d21d77c87df617d94303c4c5451885df7c204eaf47a8b553d7a4bec8ab9be3256b780cf12913b5fb6ba9577f6921d593bdf9c2230675d52854301aded2ee623c650e4e7ecf77f3cf0eb0a8ba9fee1f01d298ac4b605e7ae28a5ab94b736d1257aa4c1de3acdb9a8fba783b27f04c6ae0fc647e0e3d32b7c6c69475f9e4d32b0e7e64a3e995e029de2c3066dc4dc2d1ead3c0b95c404bc8dcc1f6af22cb8d5b2e3397b7d3f3f7332b107761f76e0db55a69b1b9cb9878ee62653e6dd3487a977421c789c95a183788e98709387d14bb778e9b2bbeff7785f3c256680548972099844f03521e0fd2b6188e74fffa0280dc2cb8b8dc21dd761f8ff3bbae26d4bc9c328762cbc2b5e876ef48ca2490c0e3d0b9cf8224dc3300825695a92167dd90dbe1061afb373bb7f54e251b8aa0eade456294cfe5871dd68222e8229a091ceb033b588e9a7aa8363691200a53b649589d2fe0a218f01a31942f36b86b77db5f98282ef73aceda519e08cdb0dea114536cf83faf3c9703f81501eddd44a2f2daea3f7d82a0385a664cb157ea9aa6e3391147ed5ae6063846b5ae39c263d76533514d2f02e385ec3449316d510541c7e5cc2c253683d4645428207a97e654468f83eeb29c6892c5cf84410abe8af4d3d3d348d98a4191d0dcde8dd4ba7570a19538b8513d8fc86e242a23296f93bf28f84b89bed54e17e9a75f63f0ca59cf8b2d711469b76f8a14031a6a01ce8eb4af23b907d055df79c02561aca6e79da2a9ac9ee420c683c991378346e64c8b256c53e3862394e144a878d5b7213f4562ca634c36a8b7abf19a4196156072f7119b58dc357ad0b05e13a1cfb6418b4b546b64c9f7de03946f2aef3963caf28389e7cc643647732d1d0e7437a6bef2639380c22ef79a2942a1a85ccf4a5cdb73fccfaf7b7de38fdc83aad66e942eb717b85106bf737a4dd92db3be1329dcbbd7df7828a5e4db21d8d21403a2fb25e7f1f518595da91d
+----
+results (v28) (68719476736)
+seal: commit phase 2: 14m52.819547113s (73.4 MiB/s)
