@@ -1,0 +1,990 @@
+nohup: ignoring input
+2021-08-17T18:37:33.931+0800	[34mINFO[0m	lotus-bench	lotus-bench/main.go:101	Starting lotus-bench
+2021-08-17T18:37:34.235+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-50c7368dea9593ed0989e70974d28024efa9d156d585b7eea1be22b2e753f331.vk is ok
+2021-08-17T18:37:34.235+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-7d739b8cf60f1b0709eeebee7730e297683552e4b69cab6984ec0285663c5781.vk is ok
+2021-08-17T18:37:34.235+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-0-sha256_hasher-82a357d2f2ca81dc61bb45f4a762807aedee1b0a53fd6c4e77b46a01bfef7820.vk is ok
+2021-08-17T18:37:34.235+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-559e581f022bb4e4ec6e719e563bf0e026ad6de42e56c18714a2c692b1b88d7e.vk is ok
+2021-08-17T18:37:34.235+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-5294475db5237a2e83c3e52fd6c2b03859a1831d45ed08c4f35dbf9a803165a9.vk is ok
+2021-08-17T18:37:34.235+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0cfb4f178bbb71cf2ecfcd42accce558b27199ab4fb59cb78f2483fe21ef36d9.vk is ok
+2021-08-17T18:37:34.235+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-0170db1f394b35d995252228ee359194b13199d259380541dc529fb0099096b0.vk is ok
+2021-08-17T18:37:34.237+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-032d3138d22506ec0082ed72b2dcba18df18477904e35bafee82b3793b06832f.vk is ok
+2021-08-17T18:37:34.237+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.vk is ok
+2021-08-17T18:37:34.237+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-0-0-3ea05428c9d11689f23529cde32fd30aabd50f7d2c93657c1d3650bca3e8ea9e.vk is ok
+2021-08-17T18:37:34.237+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-ecd683648512ab1765faa2a5f14bab48f676e633467f0aa8aad4b55dcb0652bb.vk is ok
+2021-08-17T18:37:34.237+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-0-0-sha256_hasher-6babf46ce344ae495d558e7770a585b2382d54f225af8ed0397b8be7c3fcd472.vk is ok
+2021-08-17T18:37:34.240+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.vk is ok
+2021-08-17T18:37:34.256+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-0-0377ded656c6f524f1618760bffe4e0a1c51d5a70c4509eedae8a27555733edc.vk is ok
+2021-08-17T18:37:34.264+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.vk is ok
+2021-08-17T18:37:35.771+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-b62098629d07946e9028127e70295ed996fe3ed25b0f9f88eb610a0ab4385a3c.params is ok
+2021-08-17T18:37:36.364+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-fil-inner-product-v1.srs is ok
+2021-08-17T18:40:54.283+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-stacked-proof-of-replication-merkletree-poseidon_hasher-8-8-2-sha256_hasher-96f1b4a04c5c51e4759bbf224bbc2ef5a42c7100f16ec0637123f16a845ddfb2.params is ok
+2021-08-17T18:41:45.210+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:183	Parameter file /var/tmp/filecoin-proof-parameters/v28-proof-of-spacetime-fallback-merkletree-poseidon_hasher-8-8-2-2627e4006b67f99cef990c0a47d5426cb7ab0a0ad58fc1061547bf2d28b09def.params is ok
+2021-08-17T18:41:45.210+0800	[34mINFO[0m	paramfetch	go-paramfetch@v0.0.2-0.20210614165157-25a6c7769498/paramfetch.go:207	parameter and key-fetching complete
+----
+start proof computation
+C2 — prover_id -- sector_id ...
+C2 — prover_id: [232, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+C2 — sector_id:: SectorId(0)
+[DEBUG] C2-1 SealCommitPhase1Output,comm_d,comm_r,comm_r_safe,comm_d_safe,public_inputs,groth_params  
+ start :: 1629196905,
+ end :1629196907,
+ duration:2
+
+[DEBUG] C2-2 compound_setup_params,vanilla_params,partitions,priority  
+ start :: 1629196907,
+ end :1629196907,
+ duration:0
+
+total memery = 2051 GiB, proof lock max num: 8
+prover.create_proof_batch_priority: create provers start...
+prover.create_proof_batch_priority: create provers time: 108.127132902s
+prover.create_proof_batch_priority: get params start
+prover.create_proof_batch_priority: waiting params...
+prover.create_proof_batch_priority: get params end time: 42.324361193s
+prover.create_proof_batch_priority: a_s start...
+prover.create_proof_batch_priority: provers length:10
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.809778584s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.587953018s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:2.186132658s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.59444626s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:2.213327169s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.583776333s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.585417245s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.566585556s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.576064663s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.643388185s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.582363195s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.641416847s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.57932875s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.577199775s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.566871018s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.589179606s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.641161757s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.580030961s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.660930112s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.605385035s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.57888279s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.577142351s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.581802793s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.655226201s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.591483546s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.647010744s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.591493249s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.572864643s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.569611281s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.589208855s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.649609761s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.588661818s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.654622602s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.584265248s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.586854004s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.565632324s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.580673937s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.659522989s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.592047362s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.641922724s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.594457103s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.585119011s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.828575473s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.604925701s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.988617872s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.604328147s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.839737577s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.587549104s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.603770465s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.564640309s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.580220803s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.651676301s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.588955974s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.662775667s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.595812336s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.586876809s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.577358559s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.581197574s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.665976287s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.590080589s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.655954011s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.592671189s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.584351482s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.710229372s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.605851886s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.67743079s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.588457973s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.680255842s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.591153009s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.608201935s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.569925573s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.60571402s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.665588242s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.611437165s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.659224343s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.598163481s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.588663341s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.593077071s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.6111187s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.651852658s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.595020937s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.655314861s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.625516781s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.587181603s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.572873313s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.718525667s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:2.007944689s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.592912709s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:2.011416849s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.619228882s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.597333222s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.568980811s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.594821015s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.665393246s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.595579524s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.672397845s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.61000938s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.609562768s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.585947109s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.598955055s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.660722446s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.596679953s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.660039167s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.607161062s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.599180605s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.908085423s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.6004747s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.662093411s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.595053857s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.67082606s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.600464598s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.620497801s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.581375506s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.589279538s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.675287027s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.598535925s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.650926524s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.608496187s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.599216101s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.577921245s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.58340744s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.659554751s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.602197738s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.657292278s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.632166855s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.82067811s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.572062593s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.848194627s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:2.008515783s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.61022007s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:2.002334533s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.595581141s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.614522428s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.558667858s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.613424511s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.66790978s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.605655659s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.662903566s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.602187472s ==========
+fft.radix_fft: ========== radix_fft start ==========
+fft.radix_fft: ========== radix_fft end cost:1.593226543s ==========
+prover.create_proof_batch_priority: a_s time: 392.739185264s
+prover.create_proof_batch_priority: h_s start...
+prover.create_proof_batch_priority: a_s length:10
+===[1]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.137409511s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.88710071s end ================================
+===[1]=== prover.create_proof_batch_priority: h_s multiexp end cost: 20.174508156s
+===[2]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.656163266s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.197008474s end ================================
+===[2]=== prover.create_proof_batch_priority: h_s multiexp end cost: 19.2953702s
+===[3]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.935155492s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:20.845502661s end ================================
+===[3]=== prover.create_proof_batch_priority: h_s multiexp end cost: 20.979308957s
+===[4]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.475243961s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.878194302s end ================================
+===[4]=== prover.create_proof_batch_priority: h_s multiexp end cost: 19.978145232s
+===[5]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.32077356s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.940513544s end ================================
+===[5]=== prover.create_proof_batch_priority: h_s multiexp end cost: 20.051630871s
+===[6]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.834578131s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.03789257s end ================================
+===[6]=== prover.create_proof_batch_priority: h_s multiexp end cost: 19.134502524s
+===[7]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:13.787159859s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.938005985s end ================================
+===[7]=== prover.create_proof_batch_priority: h_s multiexp end cost: 20.035217261s
+===[8]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.296975698s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.125171188s end ================================
+===[8]=== prover.create_proof_batch_priority: h_s multiexp end cost: 19.222614317s
+===[9]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:14.490564105s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.640499358s end ================================
+===[9]=== prover.create_proof_batch_priority: h_s multiexp end cost: 19.740708297s
+===[10]=== prover.create_proof_batch_priority: h_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13421772, gpu_n=120795954
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:13.484548788s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140684976 ,mem2:966364608 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:20.650897127s end ================================
+===[10]=== prover.create_proof_batch_priority: h_s multiexp end cost: 20.750578642s
+prover.create_proof_batch_priority: h_s time: 199.36311755s
+prover.create_proof_batch_priority: l_s start...
+prover.create_proof_batch_priority: assignments length:10
+===[1]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.291946732s end ================================ 
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:12.704140739s end ================================
+===[1]=== prover.create_proof_batch_priority: l_s multiexp end cost: 12.704490658s
+===[2]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.689929817s end ================================ 
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:13.047580684s end ================================
+===[2]=== prover.create_proof_batch_priority: l_s multiexp end cost: 13.047877022s
+===[3]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.329249652s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:11.395876349s end ================================
+===[3]=== prover.create_proof_batch_priority: l_s multiexp end cost: 11.396155195s
+===[4]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.22882057s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.978536999s end ================================
+===[4]=== prover.create_proof_batch_priority: l_s multiexp end cost: 10.978823869s
+===[5]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.239982322s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.684903857s end ================================
+===[5]=== prover.create_proof_batch_priority: l_s multiexp end cost: 10.685260016s
+===[6]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.326195525s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:12.499466898s end ================================
+===[6]=== prover.create_proof_batch_priority: l_s multiexp end cost: 12.499843887s
+===[7]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.165195901s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:11.630448207s end ================================
+===[7]=== prover.create_proof_batch_priority: l_s multiexp end cost: 11.630798856s
+===[8]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.185255432s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.684974474s end ================================
+===[8]=== prover.create_proof_batch_priority: l_s multiexp end cost: 10.685289628s
+===[9]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.265422555s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.991728133s end ================================
+===[9]=== prover.create_proof_batch_priority: l_s multiexp end cost: 10.992016065s
+===[10]=== prover.create_proof_batch_priority: l_s multiexp start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13107664, gpu_n=117968979
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.202132503s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2846679576 ,mem2:875901408 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5204Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.931761459s end ================================
+===[10]=== prover.create_proof_batch_priority: l_s multiexp end cost: 10.932064539s
+prover.create_proof_batch_priority: l_s time: 115.552987817s
+prover.create_proof_batch_priority: input start...
+===[1]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.765916ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:67.004468ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.350227928s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:11.382508382s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.839245ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:27.139102ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.765453588s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:3.068273066s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:10.031588ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:22.860561ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.260082249s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.790915454s end ================================
+===[1]=== prover.create_proof_batch_priority: input piece end cost: 28.763123109s
+===[2]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.454008ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:67.62672ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.524664722s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:11.417196634s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.811363ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:25.579069ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.752056918s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.600159995s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.472915ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:15.837937ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.101298134s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.673025322s end ================================
+===[2]=== prover.create_proof_batch_priority: input piece end cost: 29.470070271s
+===[3]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.132245ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:67.628341ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.119293279s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:9.483737912s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.493034ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:24.279427ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.717877531s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.825698047s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:2.558706ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:24.675152ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.152618368s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:7.4353527s end ================================
+===[3]=== prover.create_proof_batch_priority: input piece end cost: 24.584063752s
+===[4]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.186732ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:67.942559ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.020981178s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:9.775709911s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.598675ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:24.909766ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.673253927s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.4789231s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.509124ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:17.09688ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.337563119s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.402137053s end ================================
+===[4]=== prover.create_proof_batch_priority: input piece end cost: 28.415530027s
+===[5]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.682794ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:66.966328ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.257348948s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:11.396012507s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.1504ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:26.402968ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.820550324s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.992502652s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.044781ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:17.527622ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.372726458s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:7.435000235s end ================================
+===[5]=== prover.create_proof_batch_priority: input piece end cost: 29.755963851s
+===[6]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.703123ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:67.265658ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.028657946s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:9.937437022s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.498228ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:24.940008ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.670617609s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.470309241s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.832003ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:15.842572ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.408503738s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:7.432111036s end ================================
+===[6]=== prover.create_proof_batch_priority: input piece end cost: 25.104592097s
+===[7]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.462854ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:66.370298ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.354415702s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:11.382017049s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.944989ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:24.888141ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.742538265s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.950083893s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:3.879934ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:16.380877ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.259927217s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.673383953s end ================================
+===[7]=== prover.create_proof_batch_priority: input piece end cost: 29.950231287s
+===[8]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:7.933976ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:67.931021ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.352772534s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.842928663s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:2.751831ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:26.582212ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.663922081s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.477272679s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:2.677441ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:16.553773ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.19574594s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:10.76681009s end ================================
+===[8]=== prover.create_proof_batch_priority: input piece end cost: 29.467337812s
+===[9]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.718123ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:65.870946ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.221614086s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:9.981037852s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:2.614222ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:24.293264ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.796773737s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.961693225s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.104627ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:19.046407ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.234652267s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:7.399643894s end ================================
+===[9]=== prover.create_proof_batch_priority: input piece end cost: 27.394658511s
+===[10]=== prover.create_proof_batch_priority: input piece start...
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=32, gpu_n=296
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:30784 ,mem2:9472 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.574538ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:67.85152ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=13063754, gpu_n=117573788
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 2] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+[226 - 3] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3140698080 ,mem2:966368640 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5571Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:6.467287309s end ================================ 
+[226 - 4] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:2805579712 ,mem2:863255296 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5153Mbyte
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:11.370008416s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:104 ,mem2:32 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 1654Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:4.332988ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:26.227387ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:104 ,PrimeField size2:32 ,Projective size3:144 ,mem1:3125017896 ,mem2:961543968 ,mem3:1732902912 ,mem4:1692288 ,GPU mem need: 5551Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:1.755809536s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:2.949882167s end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=0, gpu_n=1
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:200 ,mem2:32 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 416Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:2.601999ms end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:15.192943ms end ================================
+main MultiexpKernel.multiexp:cpu_utilization:0.1 , cpu_n=3338694, gpu_n=30048249
+main MultiexpKernel.multiexp: ================================ gpu multiexp start ================================
+main MultiexpKernel.multiexp: ================================ cpu multiexp start ================================ 
+[226 - 1] SingleMultiexpKernel.multiexp: CurveAffine size1:200 ,PrimeField size2:32 ,Projective size3:288 ,mem1:6009649800 ,mem2:961543968 ,mem3:433741824 ,mem4:3388608 ,GPU mem need: 7065Mbyte
+main MultiexpKernel.multiexp: ================================ cpu multiexp cost:5.470558861s end ================================ 
+main MultiexpKernel.multiexp: ================================ gpu multiexp cost:8.313044766s end ================================
+===[10]=== prover.create_proof_batch_priority: input piece end cost: 27.677824601s
+prover.create_proof_batch_priority: input time: 286.158103928s
+prover.create_proof_batch_priority: prover time: 1144.345504211s
+[DEBUG] C2-3 compound_public_params,groth_proofs  
+ start :: 1629196907,
+ end :1629198054,
+ duration:1147
+
+[DEBUG] C2-4 write(&mut buf)  
+ start :: 1629198054,
+ end :1629198054,
+ duration:0
+
+[DEBUG] C2-5 verify_seal,out  
+ start :: 1629198054,
+ end :1629198054,
+ duration:0
+
+[DEBUG] C2-X seal_commit_phase2 done! 
+ start :: 1629196905,
+ end :1629198054,
+ duration:1149
+
+[DEBUG] proof:"a9b8d18a32ce261b691264fc1d67b6ddd1f393531b23d96b60095681bbb7ba52c3570aa22ec4a344db9347c253094bf2ad7abfe71d00b8a6cf7cb0ba5a4a9b9ddf22406af0380cb6feb878f5b580f771df123a0ef3c0630f99c4cf2d738fb51e07b36427286aa85397961ccb015865e8e5b3d38a961ed0152ecc42d160ebdc70232d2bb3c3a546e569089e46e559ff24a2ef1fdf78a7daa0878dc7ecd3395f64ffec102b825fc261f103bfad1fb1c37e29af0105f62bce90982f6caaa0e83c6f8486015ce303b5a33beb07cc61bdab7d10154f86821fb6407c248eced5f82ec5f1793396b4206c4ea38d6dc3401154448080f9d67d8159713455b2083dbb1fc7336457357e666173d1e7368076fbcd17baebee9df247820a9f5ae40c7431aff610c34c1abb47cf4eb0af358512063b31e4967caf5f47e4809dc09aac0a28c5a69b97c72a81ff438c448efa2dd3dc1831b752940b1e54a7c320b45c88b3ab05cfeb8c4451612e657a18f8b6133d5bdc27488ba76515269ef36cf80bcc4cb4df6cb9af97f7f4646a3fc577ae7d02d9269320bb9dd26515a6256b1e6613af01dc5030ae8c8c8b3986955f1e8d13d2e4ec69ab292f28bef734a41eb64fee91ecfee3a27b1237d7b0e85fbcaff3116fb4f403deb8783e99e9859a9327681918566edf0165719d1f62a5e9e0dab33b9659db3c3e5aa4f2aadd7f27d43e042a9cb1427e72fc7d6d4792e508bd77af55dd364577a48d3e4122abc41d86290f000807e58c6ea9c5cec66a59722ce997d90550bb15c09efe7f4aa875b28d2b9726155cbbfc88f75c6c111032246637345f3c18cd19b5d997dbe7f76cce885ca65b726245bdb7dd09c47430ff7ce30378dd20f0ec9c8fb6f78bbfa2d116bb427e23c3dd437670243edaa51939e3c1bf1087815cb060a06d3e4e11796c305b3680a2bc0b29fb0a56a5aef03016ea445cf29d2082f0cf69ba20311e05e961feeebd45f89fa9f28b486c2a197bca4987b3dd42b0eb52d393d4fe4aef65a7e26cb48af8ce89f808704bd2050d98cca0ca2fe750d85b4f29946edc50c07c825ee2135c89d099b96d94708a33c3c609aaa5593a16a01cb98ee95358efe588565b49bedb28fd316a1b6d3bb1185cc5175d662a052f2a976310918e12be6b040547b7a92aec1156c7fd9d1d2346a780eecec71dee3be393e96f4a07cd838a9f9e3fdd35e6e9a1e4ee240a78c00017cbb36a9dbcd888fa9baa90c4f3f3668923ceccf87c3f3fe050a7f346f6e8e53f5d7fb9272ff94adb4a843b8169f786f5c4c0757cbacf704b62d1bad2d0143c6a2e2cdb823b52265ce7a5f257dfb187f3afd9c4f8ed6c35b1f5500fa39877193225305557efc595662f31df97cc4af83a1f1facae7a2491063515c45b7f108d8141064c9c1ced65fe19d461b6d0a2e36fac3db76e645448da7ab477507beaa47fe6c0aef0ec2dec1727353f786130ac23f6633f012b724864f474d01740a6ebba8308fd0220926d2f75ec25e5edc0c3f85321c8b0c0995f31fc0fc93da2542da6e4b36c806bd07335cf6fdd8ef8414ebf4b033139ed61263f5fc4d300b87cd3ba6d8ea5654e875cba30901fc667705a614ad0812152f789852a070dae6cbe586a777643bb77f8a6188a78f4cc7fe8f9fcdba3e2b98e01d9c5ed56f2585be55e66ad228c026efaeaa8d0a827a68025a4c80874720765804722a579d6e7271870a70b268d758a5b6d0d44999de07e88f3f515d143e33abd36ea7944aa0a5ea988260c1ce696db7740f7cf21d45739006bda06acd04ef2ea28a658ce636efc06b3249159edc6f9f8b1432cf365952e5cd36e6fee03a423913f44564491c268e419c6527dda01735e465adb4e15a7775a6f5e78b79b5c49c7ba4ae5e4a68913635a7d82a900aa9a5fec3b5cf2fa6192be82c1f69bb57867a694f5e3f72ffd5da6b3b90819270d041ecf59eff16e83d9bc525c5fb1d3406db93e36295fccf1011e168127a960b39308a7fc056c6e1595143589ecc50b45a8aaa44b5c80a3185abc67b881a90e1f8b1a2481007916657c44f6855c3093eff78596751a652f61fcff1c42fa1b057b21e56c085eed8e8d469c56408c19ba177a0648899cc2fc3fdfd6c6213f4711dc59d31ad2152be0cf6f196f6af410a9980f13e350b116d684f3079e73e87a5868b6a5e1ab721236523862a6a543b44fd4376616273f974d0fd453f6ad735963edcf844ba9e86013ac22751f6cff18d7a6e2bd7c8778382a269d6471372d75ed265be847158f446d6a576e8e7eb988a67fa7bab95bb2098a0fa56010b51db6fe4ef4b5da2784f7444d70f5131c0bcf9734265658dc6722a125839491846ac8b8f0cc373120485c53aeae139b2ffc8dd5c8b99e332492c8f6bc943d87ba0d9751f8aa203f893c2db84ac9b4abc8eb04ce47e39e5d2a0d3178a3fa1f1e54099f967992d181f7c916095630a3386b95fe1de362dd8b094e9b0361ee559eea84ad854d2f8b162d05193292ea7b68546fd19dfb8a5760dfc76ceafde2f715e05273e6f5e52cf5ee799435cb865664b3ee656279fb81ad6f6677b405a0668ae6a6483725fadec7feb858fba014b1cee93ed68647c4c48b1809f0d96f3f06afeb15e31f4f3fbb865936a836a854edab16abcb82e23c1c020dcabb7ce347a78113b772b87c47c9703138dc2915db0dc4aaf0d4bcc63a9998554abba3"
+proof: a9b8d18a32ce261b691264fc1d67b6ddd1f393531b23d96b60095681bbb7ba52c3570aa22ec4a344db9347c253094bf2ad7abfe71d00b8a6cf7cb0ba5a4a9b9ddf22406af0380cb6feb878f5b580f771df123a0ef3c0630f99c4cf2d738fb51e07b36427286aa85397961ccb015865e8e5b3d38a961ed0152ecc42d160ebdc70232d2bb3c3a546e569089e46e559ff24a2ef1fdf78a7daa0878dc7ecd3395f64ffec102b825fc261f103bfad1fb1c37e29af0105f62bce90982f6caaa0e83c6f8486015ce303b5a33beb07cc61bdab7d10154f86821fb6407c248eced5f82ec5f1793396b4206c4ea38d6dc3401154448080f9d67d8159713455b2083dbb1fc7336457357e666173d1e7368076fbcd17baebee9df247820a9f5ae40c7431aff610c34c1abb47cf4eb0af358512063b31e4967caf5f47e4809dc09aac0a28c5a69b97c72a81ff438c448efa2dd3dc1831b752940b1e54a7c320b45c88b3ab05cfeb8c4451612e657a18f8b6133d5bdc27488ba76515269ef36cf80bcc4cb4df6cb9af97f7f4646a3fc577ae7d02d9269320bb9dd26515a6256b1e6613af01dc5030ae8c8c8b3986955f1e8d13d2e4ec69ab292f28bef734a41eb64fee91ecfee3a27b1237d7b0e85fbcaff3116fb4f403deb8783e99e9859a9327681918566edf0165719d1f62a5e9e0dab33b9659db3c3e5aa4f2aadd7f27d43e042a9cb1427e72fc7d6d4792e508bd77af55dd364577a48d3e4122abc41d86290f000807e58c6ea9c5cec66a59722ce997d90550bb15c09efe7f4aa875b28d2b9726155cbbfc88f75c6c111032246637345f3c18cd19b5d997dbe7f76cce885ca65b726245bdb7dd09c47430ff7ce30378dd20f0ec9c8fb6f78bbfa2d116bb427e23c3dd437670243edaa51939e3c1bf1087815cb060a06d3e4e11796c305b3680a2bc0b29fb0a56a5aef03016ea445cf29d2082f0cf69ba20311e05e961feeebd45f89fa9f28b486c2a197bca4987b3dd42b0eb52d393d4fe4aef65a7e26cb48af8ce89f808704bd2050d98cca0ca2fe750d85b4f29946edc50c07c825ee2135c89d099b96d94708a33c3c609aaa5593a16a01cb98ee95358efe588565b49bedb28fd316a1b6d3bb1185cc5175d662a052f2a976310918e12be6b040547b7a92aec1156c7fd9d1d2346a780eecec71dee3be393e96f4a07cd838a9f9e3fdd35e6e9a1e4ee240a78c00017cbb36a9dbcd888fa9baa90c4f3f3668923ceccf87c3f3fe050a7f346f6e8e53f5d7fb9272ff94adb4a843b8169f786f5c4c0757cbacf704b62d1bad2d0143c6a2e2cdb823b52265ce7a5f257dfb187f3afd9c4f8ed6c35b1f5500fa39877193225305557efc595662f31df97cc4af83a1f1facae7a2491063515c45b7f108d8141064c9c1ced65fe19d461b6d0a2e36fac3db76e645448da7ab477507beaa47fe6c0aef0ec2dec1727353f786130ac23f6633f012b724864f474d01740a6ebba8308fd0220926d2f75ec25e5edc0c3f85321c8b0c0995f31fc0fc93da2542da6e4b36c806bd07335cf6fdd8ef8414ebf4b033139ed61263f5fc4d300b87cd3ba6d8ea5654e875cba30901fc667705a614ad0812152f789852a070dae6cbe586a777643bb77f8a6188a78f4cc7fe8f9fcdba3e2b98e01d9c5ed56f2585be55e66ad228c026efaeaa8d0a827a68025a4c80874720765804722a579d6e7271870a70b268d758a5b6d0d44999de07e88f3f515d143e33abd36ea7944aa0a5ea988260c1ce696db7740f7cf21d45739006bda06acd04ef2ea28a658ce636efc06b3249159edc6f9f8b1432cf365952e5cd36e6fee03a423913f44564491c268e419c6527dda01735e465adb4e15a7775a6f5e78b79b5c49c7ba4ae5e4a68913635a7d82a900aa9a5fec3b5cf2fa6192be82c1f69bb57867a694f5e3f72ffd5da6b3b90819270d041ecf59eff16e83d9bc525c5fb1d3406db93e36295fccf1011e168127a960b39308a7fc056c6e1595143589ecc50b45a8aaa44b5c80a3185abc67b881a90e1f8b1a2481007916657c44f6855c3093eff78596751a652f61fcff1c42fa1b057b21e56c085eed8e8d469c56408c19ba177a0648899cc2fc3fdfd6c6213f4711dc59d31ad2152be0cf6f196f6af410a9980f13e350b116d684f3079e73e87a5868b6a5e1ab721236523862a6a543b44fd4376616273f974d0fd453f6ad735963edcf844ba9e86013ac22751f6cff18d7a6e2bd7c8778382a269d6471372d75ed265be847158f446d6a576e8e7eb988a67fa7bab95bb2098a0fa56010b51db6fe4ef4b5da2784f7444d70f5131c0bcf9734265658dc6722a125839491846ac8b8f0cc373120485c53aeae139b2ffc8dd5c8b99e332492c8f6bc943d87ba0d9751f8aa203f893c2db84ac9b4abc8eb04ce47e39e5d2a0d3178a3fa1f1e54099f967992d181f7c916095630a3386b95fe1de362dd8b094e9b0361ee559eea84ad854d2f8b162d05193292ea7b68546fd19dfb8a5760dfc76ceafde2f715e05273e6f5e52cf5ee799435cb865664b3ee656279fb81ad6f6677b405a0668ae6a6483725fadec7feb858fba014b1cee93ed68647c4c48b1809f0d96f3f06afeb15e31f4f3fbb865936a836a854edab16abcb82e23c1c020dcabb7ce347a78113b772b87c47c9703138dc2915db0dc4aaf0d4bcc63a9998554abba3
+----
+results (v28) (68719476736)
+seal: commit phase 2: 19m9.123821168s (57.03 MiB/s)
